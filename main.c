@@ -6,7 +6,7 @@
 /*   By: fbeck <fbeck@student.42.fr>                +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2014/01/20 17:29:15 by fbeck             #+#    #+#             */
-/*   Updated: 2014/01/20 17:53:01 by fbeck            ###   ########.fr       */
+/*   Updated: 2014/01/20 17:57:47 by fbeck            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,5 +16,6 @@ int				main(int ac, char *av[])
 {
 	printf("Hello world\n");
 	printf("Hows it going?\n");
+	printf("omagad ? fixing ?\n");
 	return (0);
 }
